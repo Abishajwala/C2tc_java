@@ -1,5 +1,5 @@
 package com.abisha.commision;
-import java.util.Scanner;
+import java.util.Scanner; 
 
 import com.abisha.scanner.person;
 
